@@ -1,1 +1,30 @@
 # cheatsheet
+Linux commande :
+- pwd : Afficher le répertoire de travail actuel.
+- ls : Liste les fichiers et dossiers du répertoire actuel.
+- cd : Changer de répertoire.
+----------------------------
+- touch nomdufichier : Créer un nouveau fichier. 
+- mkdir nomdudossier : Créer un nouveau dossier.
+----------------------------
+- cp source destination : Copier des fichiers ou des dossiers.
+- mv source destination : Déplacer ou renommer des fichiers/dossiers.
+- rm fichier : Supprimer un fichier.
+----------------------------
+- cat nomdufichier : Afficher le contenu d'un fichier.
+- more nomdufichier : Afficher le contenu d'un fichier page par page.
+- less nomdufichier : Afficher le contenu d'un fichier avec navigation.
+- head nomdufichier : Afficher les premières lignes d'un fichier.
+- tail nomdufichier : Afficher les dernières lignes d'un fichier.
+----------------------------
+- chmod  : Modifier les permissions d'un fichier/dossier.
+- chown  : Changer le propriétaire d'un fichier/dossier.
+----------------------------
+- ps : Afficher les processus en cours d'exécution.
+- top : Afficher les processus en cours en temps réel.
+- kill PID : Tuer un processus en utilisant son ID de processus.
+----------------------------
+- ping adresse_ip : Tester la connectivité avec une adresse IP.
+- ifconfig : Afficher la configuration réseau.
+- netstat : Afficher les connexions réseau et les statistiques.
+- ssh utilisateur@adresse_ip : Se connecter à un serveur distant en utilisant SSH.
